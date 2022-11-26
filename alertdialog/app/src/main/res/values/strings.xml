@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">alertdialog</string>
+    <string name="title">Open</string>
+    <string name="titlemessage">Want to open this</string>
+</resources>
